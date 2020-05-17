@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/p5x-playground/static/css/main.d50bb397.chunk.css",
+    "main.js": "/p5x-playground/static/js/main.68c92129.chunk.js",
+    "main.js.map": "/p5x-playground/static/js/main.68c92129.chunk.js.map",
+    "runtime-main.js": "/p5x-playground/static/js/runtime-main.56ebfc7b.js",
+    "runtime-main.js.map": "/p5x-playground/static/js/runtime-main.56ebfc7b.js.map",
+    "static/js/2.95f77a1f.chunk.js": "/p5x-playground/static/js/2.95f77a1f.chunk.js",
+    "static/js/2.95f77a1f.chunk.js.map": "/p5x-playground/static/js/2.95f77a1f.chunk.js.map",
+    "index.html": "/p5x-playground/index.html",
+    "precache-manifest.b122f64669012c552f65593b7263af57.js": "/p5x-playground/precache-manifest.b122f64669012c552f65593b7263af57.js",
+    "service-worker.js": "/p5x-playground/service-worker.js",
+    "static/css/main.d50bb397.chunk.css.map": "/p5x-playground/static/css/main.d50bb397.chunk.css.map",
+    "static/js/2.95f77a1f.chunk.js.LICENSE.txt": "/p5x-playground/static/js/2.95f77a1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56ebfc7b.js",
+    "static/js/2.95f77a1f.chunk.js",
+    "static/css/main.d50bb397.chunk.css",
+    "static/js/main.68c92129.chunk.js"
+  ]
+}
